@@ -1,0 +1,38 @@
+----- Using the old sqlite schema -----
+How many total characters are there?
+302 characters
+
+How many of each specific subclass?
+75 clerics
+68 fighters
+108 mages
+11 necromancers
+51 thieves
+
+How many total items?
+174 items
+
+How many of the items are weapons?  How many are not?
+37 are weapons
+137 are not weapons
+
+
+----- Now using the new schema -----
+How many total characters are there?
+302 characters
+
+How many of each specific class?
+clerics: 75
+fighters: 68
+mages: 108
+thiefs: 51
+
+How many of each specific subclass?
+necromancers: 11 (base class: mage)
+
+How many total items?
+174 items
+
+How many of the items are weapons?  How many are not?
+37 weapons
+137 are not weapons

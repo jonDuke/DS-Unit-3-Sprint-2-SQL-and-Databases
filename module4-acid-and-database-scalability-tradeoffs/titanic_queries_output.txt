@@ -1,0 +1,50 @@
+How many passengers survived, and how many died?
+342 passengers survived
+545 passengers did not survive
+
+How many passengers were in each class?
+216 passengers were in class 1
+184 passengers were in class 2
+487 passengers were in class 3
+
+How many passengers survived/died within each class?
+From class 1, 136 survived and 80 did not.
+From class 2, 87 survived and 97 did not.
+From class 3, 119 survived and 368 did not.
+
+What was the average age of survivors vs nonsurvivors?
+The average age of survivors was 28.41
+The average age of nonsurvivors was, 30.15
+
+What was the average age of each passenger class?
+The average age of passengers in class 1 was 38.79
+The average age of passengers in class 3 was 25.20
+The average age of passengers in class 2 was 29.88
+
+What was the average fare by passenger class? By survival?
+The average fare of passengers in class 1 was $84.15
+The average fare of passengers in class 3 was $13.71
+The average fare of passengers in class 2 was $20.66
+The average fare of survivors was $48.40
+The average fare of nonsurvivors was $22.21
+
+How many siblings/spouses aboard on average, by passenger class? By survival?
+The average number of siblings/spouses of passengers in class 1 was 0.42
+The average number of siblings/spouses of passengers in class 3 was 0.62
+The average number of siblings/spouses of passengers in class 2 was 0.40
+The average number of siblings/spouses of survivors was, 0.47
+The average number of siblings/spouses of nonsurvivors was, 0.56
+
+How many parents/children aboard on average, by passenger class? By survival?
+The average number of parents/children of passengers in class 1 was 0.36
+The average number of parents/children of passengers in class 3 was 0.40
+The average number of parents/children of passengers in class 2 was 0.38
+The average number of parents/children of survivors was, 0.46
+The average number of parents/children of nonsurvivors was, 0.33
+
+Do any passengers have the same name?
+There are 887 passengers and 887 unique names
+No, each passenger has a unique name
+
+How many married couples were aboard the Titanic?
+Found 49 married couples
