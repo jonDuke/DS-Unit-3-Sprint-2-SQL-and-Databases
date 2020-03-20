@@ -47,4 +47,4 @@ There are 887 passengers and 887 unique names
 No, each passenger has a unique name
 
 How many married couples were aboard the Titanic?
-Found 49 married couples
+Found 48 married couples
