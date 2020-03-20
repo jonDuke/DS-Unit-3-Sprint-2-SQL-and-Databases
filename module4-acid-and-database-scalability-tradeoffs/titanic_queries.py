@@ -1,5 +1,3 @@
-### migrates data from titanic.csv to postgresql
-
 # load environment variables
 import os
 from dotenv import load_dotenv
