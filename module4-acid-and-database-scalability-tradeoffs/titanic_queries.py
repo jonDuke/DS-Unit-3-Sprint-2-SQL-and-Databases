@@ -255,7 +255,7 @@ for i in range(len(names)-1):
 
             # assume each passenger can be married only once, 
             # stop checking for more
-            continue 
+            break 
 
 print(f'Found {married_count} married couples')
 
